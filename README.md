@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevikaRajesh22
 - 👀 I’m interested in cybersecurity and ethical hacking
-- 🌱 I’m currently learning bachlors in computer applications and cybersecurity
+- 🌱 I’m currently learning bachelors degree in computer applications and cybersecurity
 - 📫 How to reach me: devikaraj699@gmail.com
 
 <!---
