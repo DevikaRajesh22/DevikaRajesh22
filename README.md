@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevikaRajesh22
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning bachelors degree in computer applications and Full stack developer course
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently pursuing a bachelors degree in computer applications
 - 📫 How to reach me: devikaraj699@gmail.com
 
 <!---
