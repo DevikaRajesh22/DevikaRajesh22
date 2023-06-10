@@ -9,7 +9,6 @@
 <a href="https://linkedin.com/in/devikarajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devikarajesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devika-rajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devika-rajesh" height="30" width="40" /></a>
 <a href="https://instagram.com/devika._.rajesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devika._.rajesh_" height="30" width="40" /></a>
-<a href="https://dribbble.com/devikarajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devikarajesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devikarajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devikarajesh" height="30" width="40" /></a>
 </p>
 
