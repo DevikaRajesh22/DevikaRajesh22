@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devika Rajesh</h1>
 <h3 align="center">MERN Stack developer</h3>
 
-- 🔭 I’m currently working on [Vacation Vista](htthttps://github.com/DevikaRajesh22/VacationVista-client.gitps://github.com)
+- 🔭 I’m currently working on [Vacation Vista](https://github.com/DevikaRajesh22/VacationVista-client.git)
 
 - 🌱 I’m currently learning **MERN**
 
