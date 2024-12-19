@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VacationVista<br>🌱 I’m currently learning MERN Stack web development<br>💬 Ask me about Web Development
+🔭 I’m currently working in Sinope Softwares as Junior Software Engineer<br>🌱 I’m currently learning DevOps and System Design<br>💬 Ask me about Web Technologies
 
 
 ## 🌐 Socials:
