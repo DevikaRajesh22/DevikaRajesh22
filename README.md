@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Sinope Softwares as Junior Software Engineer<br>🌱 I’m currently learning DevOps and System Design<br>💬 Ask me about Web Technologies
+🔭 I’m currently working in AutoVRse as SDE I<br>🌱 I’m currently learning VR and 3Ds<br>💬 Ask me about Web Technologies
 
 
 ## 🌐 Socials:
