@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Game Studio & VR/3D Applications**
 
-- 👨‍💻 All of my projects are available at [devikarajesh.online](devikarajesh.online)
+- 👨‍💻 All of my projects are available at [devikarajesh.online](https://www.devikarajesh.online)
 
 - 📫 How to reach me **devikarajesh141@gmail.com**
 
